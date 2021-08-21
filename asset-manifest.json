@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the_grace_centre/static/css/main.def877c0.chunk.css",
-    "main.js": "/the_grace_centre/static/js/main.dae72396.chunk.js",
-    "main.js.map": "/the_grace_centre/static/js/main.dae72396.chunk.js.map",
+    "main.js": "/the_grace_centre/static/js/main.f75dc91e.chunk.js",
+    "main.js.map": "/the_grace_centre/static/js/main.f75dc91e.chunk.js.map",
     "runtime-main.js": "/the_grace_centre/static/js/runtime-main.c529bb0f.js",
     "runtime-main.js.map": "/the_grace_centre/static/js/runtime-main.c529bb0f.js.map",
     "static/css/2.2e4df8d8.chunk.css": "/the_grace_centre/static/css/2.2e4df8d8.chunk.css",
@@ -106,6 +106,6 @@
     "static/css/2.2e4df8d8.chunk.css",
     "static/js/2.7d65942a.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.dae72396.chunk.js"
+    "static/js/main.f75dc91e.chunk.js"
   ]
 }
