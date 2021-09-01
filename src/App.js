@@ -115,10 +115,10 @@ export default function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/components/:type/:subtype/:name">
+        <Route path="/gh-pages-url/:type/:subtype/:name">
           <ComponentRenderer />
         </Route>
-        <Route path="/components/:type/:name">
+        <Route path="/gh-pages-url/:type/:name">
           <ComponentRenderer />
         </Route>
         <Route path="/pages/:name">
