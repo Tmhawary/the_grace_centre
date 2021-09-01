@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/the_grace_centre/static/css/main.def877c0.chunk.css",
-    "main.js": "/the_grace_centre/static/js/main.775202d0.chunk.js",
-    "main.js.map": "/the_grace_centre/static/js/main.775202d0.chunk.js.map",
-    "runtime-main.js": "/the_grace_centre/static/js/runtime-main.90068518.js",
-    "runtime-main.js.map": "/the_grace_centre/static/js/runtime-main.90068518.js.map",
-    "static/css/2.2e4df8d8.chunk.css": "/the_grace_centre/static/css/2.2e4df8d8.chunk.css",
-    "static/js/2.7a8f58fb.chunk.js": "/the_grace_centre/static/js/2.7a8f58fb.chunk.js",
-    "static/js/2.7a8f58fb.chunk.js.map": "/the_grace_centre/static/js/2.7a8f58fb.chunk.js.map",
+    "main.js": "/the_grace_centre/static/js/main.f790965f.chunk.js",
+    "main.js.map": "/the_grace_centre/static/js/main.f790965f.chunk.js.map",
+    "runtime-main.js": "/the_grace_centre/static/js/runtime-main.c529bb0f.js",
+    "runtime-main.js.map": "/the_grace_centre/static/js/runtime-main.c529bb0f.js.map",
+    "static/css/2.fbc281d9.chunk.css": "/the_grace_centre/static/css/2.fbc281d9.chunk.css",
+    "static/js/2.c0551163.chunk.js": "/the_grace_centre/static/js/2.c0551163.chunk.js",
+    "static/js/2.c0551163.chunk.js.map": "/the_grace_centre/static/js/2.c0551163.chunk.js.map",
     "index.html": "/the_grace_centre/index.html",
-    "static/css/2.2e4df8d8.chunk.css.map": "/the_grace_centre/static/css/2.2e4df8d8.chunk.css.map",
+    "static/css/2.fbc281d9.chunk.css.map": "/the_grace_centre/static/css/2.fbc281d9.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/the_grace_centre/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.7a8f58fb.chunk.js.LICENSE.txt": "/the_grace_centre/static/js/2.7a8f58fb.chunk.js.LICENSE.txt",
+    "static/js/2.c0551163.chunk.js.LICENSE.txt": "/the_grace_centre/static/js/2.c0551163.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/the_grace_centre/static/media/AboutUsPage.c9232ae2.jpeg",
     "static/media/AgencyLandingPage.717f8ed6.jpeg": "/the_grace_centre/static/media/AgencyLandingPage.717f8ed6.jpeg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/the_grace_centre/static/media/BlogIndexPage.0f03fbdc.jpeg",
@@ -102,10 +102,10 @@
     "static/media/youtube-icon.10cce4d9.svg": "/the_grace_centre/static/media/youtube-icon.10cce4d9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90068518.js",
-    "static/css/2.2e4df8d8.chunk.css",
-    "static/js/2.7a8f58fb.chunk.js",
+    "static/js/runtime-main.c529bb0f.js",
+    "static/css/2.fbc281d9.chunk.css",
+    "static/js/2.c0551163.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.775202d0.chunk.js"
+    "static/js/main.f790965f.chunk.js"
   ]
 }
