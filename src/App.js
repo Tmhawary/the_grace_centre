@@ -105,7 +105,7 @@ import ComponentRenderer from "./ComponentRenderer";
 import MainLandingPage from "../src/pages/BlogIndex";
 // import ThankYouPage from "ThankYouPage.js";
 
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 export default function App() {
   // If you want to disable the animation just use the disabled `prop` like below on your page's component
